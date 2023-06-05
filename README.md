@@ -12,7 +12,7 @@ The current version implements the following functions/interactions:
 - **Edit** the Task
 - **Delete** the Task
 
-![ezgif com-video-to-gif](https://github.com/alcestide/taskmanager-react/assets/106203061/b893c896-fe71-4258-8761-80767a39099b)
+<!-- ![ezgif com-video-to-gif](https://github.com/alcestide/taskmanager-react/assets/106203061/b893c896-fe71-4258-8761-80767a39099b) -->
 
 
 
