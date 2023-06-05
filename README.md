@@ -4,7 +4,7 @@ A project conceived as plain practice material, in order for me to improve my **
 
 ## The Application
 
-This app uses [**MongoDB Atlas**](https://www.mongodb.com/atlas/database) as a _cloud database server_. You have to add your own `MONGO_URI` environment variable inside the .env file so that the application can interface with the database.
+This app uses [**MongoDB Atlas**](https://www.mongodb.com/atlas/database) as a _cloud database server_. You have to add your own `MONGODB_URL` environment variable inside the .env file so that the application can interface with the database.
 The current version implements the following functions/interactions:
 
 - **Add** a Task
