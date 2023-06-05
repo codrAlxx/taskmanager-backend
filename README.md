@@ -14,8 +14,5 @@ The current version implements the following functions/interactions:
 
 ![ezgif com-video-to-gif](https://github.com/alcestide/taskmanager-react/assets/106203061/b893c896-fe71-4258-8761-80767a39099b)
 
-## Style
 
-- **Font:** [Poppins](https://fonts.google.com/specimen/Poppins)
-- **Icon Pack Used:** [Feather Icons](https://feathericons.com/)
 
